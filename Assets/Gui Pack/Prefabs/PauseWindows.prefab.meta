@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0549e6740e4140a448f60cf291a69c18
+timeCreated: 1582029412
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 154047
+  packageName: GUI Pack - 2D Funky UI Components
+  packageVersion: 1.0
+  assetPath: Assets/Gui Pack/Prefabs/PauseWindows.prefab
+  uploadId: 355905

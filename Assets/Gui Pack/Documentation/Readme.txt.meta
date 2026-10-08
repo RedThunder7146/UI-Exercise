@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 36fee6df5bc65ea4b8949a0dd89f00b5
+timeCreated: 1582029160
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 154047
+  packageName: GUI Pack - 2D Funky UI Components
+  packageVersion: 1.0
+  assetPath: Assets/Gui Pack/Documentation/Readme.txt
+  uploadId: 355905

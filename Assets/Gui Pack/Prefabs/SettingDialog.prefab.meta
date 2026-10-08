@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: dce44fbb4e21cea4ea659dd193850599
+timeCreated: 1582029334
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 154047
+  packageName: GUI Pack - 2D Funky UI Components
+  packageVersion: 1.0
+  assetPath: Assets/Gui Pack/Prefabs/SettingDialog.prefab
+  uploadId: 355905

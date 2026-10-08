@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d2358b51f6cc2314e866b2ed052a246e
+timeCreated: 1582029340
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 154047
+  packageName: GUI Pack - 2D Funky UI Components
+  packageVersion: 1.0
+  assetPath: Assets/Gui Pack/Prefabs/Header.prefab
+  uploadId: 355905

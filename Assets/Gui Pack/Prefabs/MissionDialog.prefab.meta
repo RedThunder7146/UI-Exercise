@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9b76078a46277344984dd263960ad167
+timeCreated: 1582029356
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 154047
+  packageName: GUI Pack - 2D Funky UI Components
+  packageVersion: 1.0
+  assetPath: Assets/Gui Pack/Prefabs/MissionDialog.prefab
+  uploadId: 355905

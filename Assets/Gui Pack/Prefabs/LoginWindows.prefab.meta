@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 764dda20a6aef774caa776d0328b16e4
+timeCreated: 1582029410
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 154047
+  packageName: GUI Pack - 2D Funky UI Components
+  packageVersion: 1.0
+  assetPath: Assets/Gui Pack/Prefabs/LoginWindows.prefab
+  uploadId: 355905

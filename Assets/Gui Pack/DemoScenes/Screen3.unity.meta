@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 90190bec1190bae459245a3bc5c83ccc
+timeCreated: 1582021629
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 154047
+  packageName: GUI Pack - 2D Funky UI Components
+  packageVersion: 1.0
+  assetPath: Assets/Gui Pack/DemoScenes/Screen3.unity
+  uploadId: 355905

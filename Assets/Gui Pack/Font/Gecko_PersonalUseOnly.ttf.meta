@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: 0bae051bfcf650e4dba292e947f44c05
+timeCreated: 1582019327
+licenseType: Store
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Gecko Personal Use Only
+  fontNames:
+  - Gecko Personal Use Only
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 154047
+  packageName: GUI Pack - 2D Funky UI Components
+  packageVersion: 1.0
+  assetPath: Assets/Gui Pack/Font/Gecko_PersonalUseOnly.ttf
+  uploadId: 355905

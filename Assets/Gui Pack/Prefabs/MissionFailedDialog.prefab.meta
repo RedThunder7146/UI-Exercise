@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c9ee6f749de25eb48a29ecaad92abafe
+timeCreated: 1582029400
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 154047
+  packageName: GUI Pack - 2D Funky UI Components
+  packageVersion: 1.0
+  assetPath: Assets/Gui Pack/Prefabs/MissionFailedDialog.prefab
+  uploadId: 355905
